@@ -1,5 +1,5 @@
 body {
-    background: #1e1f24;
+    
     color: #333;
     text-align: center;
     font-family: Arial;
@@ -30,7 +30,7 @@ body {
 
 #container {
     width: 70%;
-    padding: 0;
+    padding: 1em;
     text-align: left;
     border: 1px solid #ddd;
     margin: 0 auto
